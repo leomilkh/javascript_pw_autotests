@@ -2,8 +2,8 @@
 these are some js+pw autotests
 
 avialible now:
-- signup
-- login
+- <s> signup </s>
+- <s> login </s>
 - create new article
 - edit my article
 - delete my article
